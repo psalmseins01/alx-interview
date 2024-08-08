@@ -3,7 +3,7 @@
 // Import the 'request' library
 const request = require('request');
 
-// Define constant with the base URL of the Star Wars API
+// Define a constant with the base URL of the Star Wars API
 const API_URL = 'https://swapi-api.alx-tools.com/api';
 
 // Check if the number of command line arguments is greater than 2
